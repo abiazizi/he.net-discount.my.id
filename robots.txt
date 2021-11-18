@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://he.net-discount.my.id/666808303.xml
+Sitemap: https://he.net-discount.my.id/502714256.xml
+Sitemap: https://he.net-discount.my.id/46193679.xml
+Sitemap: https://he.net-discount.my.id/1742303075.xml
+Sitemap: https://he.net-discount.my.id/1632488250.xml
+Sitemap: https://he.net-discount.my.id/1484034173.xml
+Sitemap: https://he.net-discount.my.id/1008870195.xml
